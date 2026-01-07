@@ -45,6 +45,7 @@ pip install pandas numpy matplotlib scikit-learn scipy xgboost imbalanced-learn 
 - Compare baseline models to a BERT-based approach
 - SHAP analysis
 
+## Files
 ### machinelearning_fraudspotter.py 
 - TF-IDF representation of job text
 - Combine encoded features + TF-IDF features
