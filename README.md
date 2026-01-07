@@ -69,6 +69,7 @@ pip install pandas numpy matplotlib scikit-learn scipy xgboost imbalanced-learn 
 ## Files
 - `machinelearning_fraudspotter.py` (TF-IDF models + SHAP analysis)
 - `BERT_fraudspotter.py`  DistilBERT embeddings + Logistic Regression for performance metrics)
+The ipynb versions of these files will also be added to this repo so outputs can be viewed.
 
 
 ## Authors
