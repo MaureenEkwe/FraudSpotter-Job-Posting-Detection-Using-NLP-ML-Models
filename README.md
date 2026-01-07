@@ -26,7 +26,7 @@ This project was built using the following Python libraries:
 - `tqdm`
 
 
-### Installation
+## Installation
 ### Option 1: Using conda
 
 conda install pandas numpy matplotlib scikit-learn scipy tqdm
@@ -45,7 +45,7 @@ pip install pandas numpy matplotlib scikit-learn scipy xgboost imbalanced-learn 
 - Compare baseline models to a BERT-based approach
 - SHAP analysis
 
-## machinelearning_fraudspotter.py 
+### machinelearning_fraudspotter.py 
 - TF-IDF representation of job text
 - Combine encoded features + TF-IDF features
 - Train and evaluate XGBoost 
@@ -53,7 +53,7 @@ pip install pandas numpy matplotlib scikit-learn scipy xgboost imbalanced-learn 
 - Interpret Logistic regression model features using SHAP
 
 
-## BERT_fraudspotter.py (may take up to 2 hrs to run)
+### BERT_fraudspotter.py (may take up to 2 hrs to run)
 - Tokenize text to create features
 - Generate contextual embeddings using DistilBERT
 - Concatenate embeddings with structured features
